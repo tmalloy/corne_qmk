@@ -1,3 +1,19 @@
+# tmalloy readme
+
+Useful commands:
+```
+make crkbd/rev1/common:tmalloy
+```
+
+Use QMK Toolbox to flash the output file:
+```
+<path to repo>/crkbd_rev1_common_tmalloy.hex
+```
+
+---
+
+# Old readme
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
